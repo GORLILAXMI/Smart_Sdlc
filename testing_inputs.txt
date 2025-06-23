@@ -1,0 +1,20 @@
+1)AI CODE GENERATOR:
+Build a Python function that takes a list of integers and returns only the even numbers.
+
+2)BUG FIXER
+def add_numbers(a, b)
+    return a + b
+
+3)TEST CASE GENERATOR
+def multiply(x, y):
+    return x * y
+
+4)CODE SUMMERIZER
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
+
+5)CHAT ASSISTANT
+What is the difference between system testing and integration testing?
+
