@@ -5,9 +5,9 @@ import pandas as pd
 import json
 
 # --- IBM Watsonx Credentials ---
-api_key = "DUmrdgim1LtffxQS89Pzk4Q8FF02MKixH4qJ18Mcr629"
-project_id = "c6c1fddb-370c-4685-b247-fc9086d61a6d"
-base_url = "https://eu-de.ml.cloud.ibm.com"
+api_key = "your_api_key"
+project_id = "your_project_id"
+base_url = "https://<your_region>.cloud.ibm.com"
 model_id = "ibm/granite-3-3-8b-instruct"
 
 # --- Streamlit App Config ---
